@@ -1,0 +1,4 @@
+flygoast's simple tail implementaion.
+
+It was written for my log_watch program at first. However, at last,
+I wrote it using Perl. So this file is not in use.
